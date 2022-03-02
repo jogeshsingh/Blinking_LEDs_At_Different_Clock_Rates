@@ -3,7 +3,7 @@
 
 ###Short Description 
 
-In this project LED is blinking at 1HZ , 5HZ , 10HZ frequency range using Clock divider technique , it was designed and simulated using XILINX ISE 14.7 and Spartan-6 XC6SLX9 Mimas V2 FPGA board was used 
+In this project LED is blinking at 1HZ ,2HZ ,  5HZ , 10HZ frequency range using Clock divider technique , it was designed and simulated using XILINX ISE 14.7 and Spartan-6 XC6SLX9 Mimas V2 FPGA board was used 
 for performing the project. 
 ###Link to Video
 https://youtu.be/GQtUEd9qqOw
