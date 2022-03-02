@@ -1,0 +1,7 @@
+CONFIG VCCAUX = "3.3" ;
+
+   NET "i_clk"      LOC = V10 | IOSTANDARD = LVCMOS33 | PERIOD = 100MHz;
+	  NET "i_enable"         LOC = F17  | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = FAST | PULLUP; 
+	   NET "i_select_s1"         LOC = E16  | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = FAST | PULLUP; 
+    NET "i_select_s0"         LOC = F18  | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = FAST | PULLUP; 
+	 NET "o_led_drive"              LOC = P15  | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = FAST ;
